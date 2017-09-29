@@ -1,0 +1,32 @@
+
+.heading p{
+	text-align: right;
+	font-family: Arial;
+}
+
+
+.midd{
+	font-family: Arial;
+	display: inline-block;
+	margin-top: 80px;
+	margin-left:500px;
+}
+.voice{
+	margin-left:-100px;
+}
+.midd button{
+	margin-left:60px;
+}
+
+.ending p{
+	font-family: Arial;
+	position: absolute;
+	left:0px;
+	bottom: 0px;
+}
+.ending span{
+	font-family: Arial;
+	position: absolute;
+	right:-1000px;
+	bottom: 0px;  
+}
